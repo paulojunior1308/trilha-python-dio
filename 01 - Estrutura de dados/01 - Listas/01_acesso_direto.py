@@ -1,3 +1,4 @@
-frutas = ["maçã", "laranja", "uva", "pera"]
-frutas[0] #maçã
-frutas[2] #uva
+fruta = ["maçã", "laranja", "uva", "pera"]
+fruta[0] #maçã
+fruta[2] #uva
+
