@@ -13,4 +13,4 @@ O bootcamp Python AI Backend Developer da DIO.me é um programa intensivo de cap
 - Desenvolvimento Web com Flask e Django: Criação de APIs RESTful e desenvolvimento de aplicações web robustas.
 - Banco de Dados: Integração com bancos de dados relacionais (PostgreSQL, MySQL) e NoSQL (MongoDB).
 - Inteligência Artificial: Introdução ao aprendizado de máquina, processamento de linguagem natural e criação de modelos de IA.
-- Boas Práticas de Desenvolvimento: Testes automatizados, controle de versão com Git, integração contínua e deploy de aplicações.
+- Boas Práticas de Desenvolvimento: Testes automatizados, controle de versão com Git, integração contínua e deploy de aplicações
