@@ -129,7 +129,7 @@ class Historico:
             {
                 "tipo": transacao.__class__.__name__,
                 "valor": transacao.valor,
-                "data": datetime.utcnow().strftime("%d-%m-%Y %H:%M:%S"),
+                "data": datetime.now().strftime("%d-%m-%Y %H:%M:%S"),
             }
         )
 
@@ -139,7 +139,7 @@ class Historico:
                 yield transacao
 
     def transacoes_do_dia(self):
-        data_atual = datetime.utcnow().date()
+        data_atual = datetime.now().date()
         transacoes = []
         for transacao in self._transacoes:
             data_transacao = datetime.strptime(transacao["data"], "%d-%m-%Y %H:%M:%S").date()
