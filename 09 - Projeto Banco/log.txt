@@ -1,0 +1,41 @@
+[2024-07-06 12:25:52] Função 'criar_cliente' executada com argumentos (<sqlite3.Connection object at 0x00000272499FEC50>, <sqlite3.Cursor object at 0x0000027249EF6840>, [<PessoaFisica: ('Paulo', '1')>]) e {}. Retornou None
+[2024-07-06 12:28:36] Função 'criar_conta' executada com argumentos (1, [], [], <sqlite3.Connection object at 0x0000025759CBEC50>, <sqlite3.Cursor object at 0x000002575A1B6840>) e {}. Retornou None
+[2024-07-06 12:29:02] Função 'criar_cliente' executada com argumentos (<sqlite3.Connection object at 0x0000025759CBEC50>, <sqlite3.Cursor object at 0x000002575A1B6840>, [<PessoaFisica: ('Paulo', '1')>]) e {}. Retornou None
+[2024-07-06 12:31:41] Função 'criar_cliente' executada com argumentos (<sqlite3.Connection object at 0x0000024A529CEC50>, <sqlite3.Cursor object at 0x0000024A52EC67C0>, [<PessoaFisica: ('Paulo', '1')>]) e {}. Retornou None
+[2024-07-06 12:36:47] Função 'criar_cliente' executada com argumentos (<sqlite3.Connection object at 0x00000205B74EEC50>, <sqlite3.Cursor object at 0x00000205B79E67C0>, [<PessoaFisica: ('Paulo', '1')>]) e {}. Retornou None
+[2024-07-06 12:38:21] Função 'criar_cliente' executada com argumentos (<sqlite3.Connection object at 0x00000125D604EC50>, <sqlite3.Cursor object at 0x00000125D65467C0>, [<PessoaFisica: ('asdf', '1')>]) e {}. Retornou None
+[2024-07-06 12:44:49] Função 'criar_cliente' executada com argumentos (<sqlite3.Connection object at 0x0000018B781DEC50>, <sqlite3.Cursor object at 0x0000018B786D67C0>, [<PessoaFisica: ('sdf', '1')>]) e {}. Retornou None
+[2024-07-06 12:45:43] Função 'criar_cliente' executada com argumentos (<sqlite3.Connection object at 0x000001C3CCBCEC50>, <sqlite3.Cursor object at 0x000001C3CD0C67C0>, [<PessoaFisica: ('asdf', '1')>]) e {}. Retornou None
+[2024-07-06 12:46:19] Função 'criar_cliente' executada com argumentos (<sqlite3.Connection object at 0x0000023485B4EC50>, <sqlite3.Cursor object at 0x00000234860467C0>, [<PessoaFisica: ('asdfasdf', '1')>]) e {}. Retornou None
+[2024-07-06 12:54:03] Função 'criar_conta' executada com argumentos (1, [], [], <sqlite3.Connection object at 0x0000017F0116EC50>, <sqlite3.Cursor object at 0x0000017F01666740>) e {}. Retornou None
+[2024-07-06 12:56:04] Função 'criar_cliente' executada com argumentos (<sqlite3.Connection object at 0x0000013E6FD2EC50>, <sqlite3.Cursor object at 0x0000013E70226740>, [<PessoaFisica: ('Paulo', '4')>]) e {}. Retornou 4
+[2024-07-06 13:00:17] Função 'criar_cliente' executada com argumentos (<sqlite3.Connection object at 0x000001B4BBA7ED40>, <sqlite3.Cursor object at 0x000001B4BBF76840>, [<PessoaFisica: ('Paulo', '5')>]) e {}. Retornou 5
+[2024-07-06 13:07:28] Função 'criar_cliente' executada com argumentos (<sqlite3.Connection object at 0x00000249C4F6AD40>, <sqlite3.Cursor object at 0x00000249C5466840>, [<PessoaFisica: ('asdf', '6')>]) e {}. Retornou 6
+[2024-07-06 13:07:32] Função 'criar_conta' executada com argumentos (1, [<PessoaFisica: ('asdf', '6')>], [<ContaCorrente: ('0001', '1', 'asdf')>], <sqlite3.Connection object at 0x00000249C4F6AD40>, <sqlite3.Cursor object at 0x00000249C5466840>) e {}. Retornou None
+[2024-07-06 13:10:22] Função 'criar_cliente' executada com argumentos (<sqlite3.Connection object at 0x00000208A570AE30>, <sqlite3.Cursor object at 0x00000208A5C0A740>, [<PessoaFisica: ('Paulo', '1')>]) e {}. Retornou 1
+[2024-07-06 13:10:25] Função 'criar_conta' executada com argumentos (1, [<PessoaFisica: ('Paulo', '1')>], [<ContaCorrente: ('0001', '1', 'Paulo')>], <sqlite3.Connection object at 0x00000208A570AE30>, <sqlite3.Cursor object at 0x00000208A5C0A740>) e {}. Retornou None
+[2024-07-06 14:45:11] Função 'criar_conta' executada com argumentos (2, [<PessoaFisica: ('Paulo', '1')>], [<ContaCorrente: ('0001', '1', 'Paulo')>, <ContaCorrente: ('0001', '2', 'Paulo')>], <sqlite3.Connection object at 0x000001F142F0ED40>, <sqlite3.Cursor object at 0x000001F143412640>) e {}. Retornou None
+[2024-07-06 14:45:23] Função 'depositar' executada com argumentos ([<PessoaFisica: ('Paulo', '1')>],) e {}. Retornou None
+[2024-07-06 14:45:30] Função 'sacar' executada com argumentos ([<PessoaFisica: ('Paulo', '1')>],) e {}. Retornou None
+[2024-07-06 14:45:34] Função 'exibir_extrato' executada com argumentos ([<PessoaFisica: ('Paulo', '1')>],) e {}. Retornou None
+[2024-07-06 14:48:27] Função 'depositar' executada com argumentos ([<PessoaFisica: ('Paulo', '1')>],) e {}. Retornou None
+[2024-07-06 14:48:32] Função 'exibir_extrato' executada com argumentos ([<PessoaFisica: ('Paulo', '1')>],) e {}. Retornou None
+[2024-07-06 14:54:18] Função 'depositar' executada com argumentos ([<PessoaFisica: ('Paulo', '1')>],) e {}. Retornou None
+[2024-07-06 14:54:29] Função 'sacar' executada com argumentos ([<PessoaFisica: ('Paulo', '1')>],) e {}. Retornou None
+[2024-07-06 14:54:37] Função 'exibir_extrato' executada com argumentos ([<PessoaFisica: ('Paulo', '1')>],) e {}. Retornou None
+[2024-07-06 14:54:48] Função 'sacar' executada com argumentos ([<PessoaFisica: ('Paulo', '1')>],) e {}. Retornou None
+[2024-07-06 14:54:52] Função 'exibir_extrato' executada com argumentos ([<PessoaFisica: ('Paulo', '1')>],) e {}. Retornou None
+[2024-07-06 14:56:33] Função 'exibir_extrato' executada com argumentos ([<PessoaFisica: ('Paulo', '1')>],) e {}. Retornou None
+[2024-07-06 14:57:11] Função 'depositar' executada com argumentos ([<PessoaFisica: ('Paulo', '1')>],) e {}. Retornou None
+[2024-07-06 14:57:19] Função 'exibir_extrato' executada com argumentos ([<PessoaFisica: ('Paulo', '1')>],) e {}. Retornou None
+[2024-07-06 14:59:41] Função 'exibir_extrato' executada com argumentos ([<PessoaFisica: ('Paulo', '1')>],) e {}. Retornou None
+[2024-07-06 14:59:48] Função 'exibir_extrato' executada com argumentos ([<PessoaFisica: ('Paulo', '1')>],) e {}. Retornou None
+[2024-07-06 15:02:54] Função 'exibir_extrato' executada com argumentos ([<PessoaFisica: ('Paulo', '1')>],) e {}. Retornou None
+[2024-07-06 15:03:04] Função 'exibir_extrato' executada com argumentos ([<PessoaFisica: ('Paulo', '1')>],) e {}. Retornou None
+[2024-07-06 15:03:11] Função 'exibir_extrato' executada com argumentos ([<PessoaFisica: ('Paulo', '1')>],) e {}. Retornou None
+[2024-07-06 15:05:43] Função 'exibir_extrato' executada com argumentos ([<PessoaFisica: ('Paulo', '1')>],) e {}. Retornou None
+[2024-07-06 15:09:29] Função 'exibir_extrato' executada com argumentos ([<PessoaFisica: ('Paulo', '1')>],) e {}. Retornou None
+[2024-07-06 15:09:37] Função 'exibir_extrato' executada com argumentos ([<PessoaFisica: ('Paulo', '1')>],) e {}. Retornou None
+[2024-07-06 15:10:17] Função 'depositar' executada com argumentos ([<PessoaFisica: ('Paulo', '1')>],) e {}. Retornou None
+[2024-07-06 15:10:29] Função 'depositar' executada com argumentos ([<PessoaFisica: ('Paulo', '1')>],) e {}. Retornou None
+[2024-07-06 15:10:33] Função 'exibir_extrato' executada com argumentos ([<PessoaFisica: ('Paulo', '1')>],) e {}. Retornou None
